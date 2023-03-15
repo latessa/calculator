@@ -11,8 +11,8 @@ def subtract(a, b):
     return 0
 
 def multiply(a, b):
-    """Function to multiply two numbers"""
-    return 0
+    c = a*b
+    return c
 
 def divide(a, b):
     """Function to divide two numbers"""
