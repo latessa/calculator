@@ -10,12 +10,12 @@ def subtract(a, b):
     return a-b
 
 def multiply(a, b):
-    """Function to multiply two numbers"""
-    return 0
+    c = a*b
+    return c
 
 def divide(a, b):
     """Function to divide two numbers"""
-    return 0
+    return a / b
 
 print("Welcome to the Calculator!")
 
