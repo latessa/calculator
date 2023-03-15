@@ -7,8 +7,7 @@ def add(a, b):
     return 0 
 
 def subtract(a, b):
-    """Function to subtract two numbers"""
-    return 0
+    return a-b
 
 def multiply(a, b):
     """Function to multiply two numbers"""
